@@ -25,6 +25,8 @@ reflections, inject methods and annotations, though I have used them extensively
 I will not use llms for solution straight forward as it would hinder creativity and me exploring different libraries. 
 Would use llms to solve bugs, write test cases (if I write them).
 
+I will add used resources and package created for each step.
+
 1. Create a java annotation and experiment around it!
 2. Figure out how to generically call a constructor/method of the class using a builder annotation.
 3. Try to build @Builder annotation and see if that work!
